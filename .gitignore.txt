@@ -1,0 +1,7 @@
+__pycache__/
+*.csv
+*.mp3
+*.wav
+songs/
+.venv/
+env/
