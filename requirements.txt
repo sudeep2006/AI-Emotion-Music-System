@@ -1,0 +1,11 @@
+customtkinter
+opencv-python
+tensorflow
+keras
+numpy
+pillow
+matplotlib
+pandas
+pyttsx3
+pywin32
+requests
